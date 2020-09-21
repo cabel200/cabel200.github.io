@@ -8,7 +8,7 @@ export default class Intro extends Component {
   render() {
     return (
       <div>
-        <img src="blue_back.JPG" alt="background blue" class="introbackdrop" width="1430px" height="975px"/>
+        <img src="blue_back.jpg" alt="background blue" class="introbackdrop" width="1430px" height="975px"/>
         <div class="centered">
           <h2 class="playfair close">Hi I'm Caroline!</h2>
           <p class="montserrat close medium"> I'm a sophomore at Harvard College studying Computer Science. </p>
