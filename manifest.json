@@ -1,18 +1,10 @@
-
 {
   "short_name": "React App",
   "name": "Create React App Sample",
-  "homepage": "https://cabel200.github.io/",
+  "homepage": "https://cabel200.github.io/portfolio-website",
   "scripts": {
-    "build": "react-scripts build",
-		"predeploy": "npm run build",
+		"predeploy": "yarn run build",
 		"deploy": "gh-pages -d build"},
-  "dependencies": {
-    "gh-pages": "^2.0.1",
-    "react": "^16.8.3",
-    "react-dom": "^16.8.3",
-    "react-scripts": "2.1.5",
-    "yarn": "^1.13.0"},
   "icons": [
     {
       "src": "favicon.ico",
