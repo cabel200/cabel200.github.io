@@ -7,7 +7,7 @@ export default class Sidebar extends Component {
     return (
       <div>
       <div class="sidenav playfair">
-        <img src="senior_portrait_square2.JPG" alt="portrait" class="img" width="200" height="200"/>
+        <img src="senior_portrait_square2.jpg" alt="portrait" class="img" width="200" height="200"/>
         <h2 class="closest">Caroline Abel</h2>
         <a href="mailto:carolineabel@college.harvard.edu" class="small montserrat tinks">carolineabel@college.harvard.edu </a>
         <br/>
