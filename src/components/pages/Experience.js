@@ -27,7 +27,8 @@ export default class Experience extends Component {
             <TimelineConnector />
           </TimelineSeparator>
           <TimelineContent>
-              <h3 class="close playfair">INCOMING CS50 TEACHING FELLOW</h3>
+              <h3 class="close playfair">CS50 (INTRODUCTION TO CS) TEACHING FELLOW </h3>
+              <p class="close montserrat">Led weekly section of ~25 students, graded assignments, ran office hours, and advised final projects. Languages: C, Python, SQL, JavaScript, and HTML/CSS.</p>
           </TimelineContent>
         </TimelineItem>
         <TimelineItem>

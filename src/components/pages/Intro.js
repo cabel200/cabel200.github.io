@@ -12,7 +12,7 @@ export default class Intro extends Component {
         <div class="centered">
           <h2 class="playfair close">Hi I'm Caroline!</h2>
           <p class="montserrat close medium"> I'm a sophomore at Harvard College studying Computer Science. </p>
-          <a href='/CarolineAbelCVJuly2020.docx' download><Button variant="contained" class="montserrat"><ArrowDownwardIcon fontSize="small"/>DOWNLOAD CV</Button></a>
+          <a href='/CarolineAbelTechJan21.docx' download><Button variant="contained" class="montserrat"><ArrowDownwardIcon fontSize="small"/>DOWNLOAD CV</Button></a>
         </div>
       </div>
     )
