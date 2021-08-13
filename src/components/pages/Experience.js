@@ -16,7 +16,53 @@ export default class Experience extends Component {
       <div id="experience">
       <h3 class="main montserrat large"> EXPERIENCE </h3>
       <div class="container">
+    
       <Timeline align="left">
+        <TimelineItem>
+          <TimelineOppositeContent>
+            <p class="montserrat">May 2021-Present</p>
+          </TimelineOppositeContent>
+          <TimelineSeparator>
+            <TimelineDot variant="outlined" color="primary">
+            </TimelineDot>
+            <TimelineConnector />
+          </TimelineSeparator>
+          <TimelineContent>
+              <h3 class="close playfair">LOVAGE LABS INC.</h3>
+              <h4 class="close playfair">Full Stack Software Engineer</h4>
+              <p class="close montserrat">First paid engineer at pre-seed AI startup collaborating with founders on software engineering and DevOps. Utilizing FastAPI, AWS, HashiCorp products, Dialogflow, Stripe, MongoDB Atlas, and more.</p>
+          </TimelineContent>
+        </TimelineItem>
+        <TimelineItem>
+          <TimelineOppositeContent>
+            <p class="montserrat">April-June 2021</p>
+          </TimelineOppositeContent>
+          <TimelineSeparator>
+            <TimelineDot variant="outlined" color="primary">
+            </TimelineDot>
+            <TimelineConnector />
+          </TimelineSeparator>
+          <TimelineContent>
+              <h3 class="close playfair">ENVIRONMENTAL DEFENSE FUND</h3>
+              <h4 class="close playfair">Volunteer Web App Developer through Develop for Good</h4>
+              <p class="close montserrat">Helped create website for community members to report environmental hazards.</p>
+          </TimelineContent>
+        </TimelineItem>
+        <TimelineItem>
+          <TimelineOppositeContent>
+            <p class="montserrat">February 2021-Present</p>
+          </TimelineOppositeContent>
+          <TimelineSeparator>
+            <TimelineDot variant="outlined" color="primary">
+            </TimelineDot>
+            <TimelineConnector />
+          </TimelineSeparator>
+          <TimelineContent>
+              <h3 class="close playfair">ARTIFICIAL INTELLIGENCE FOR SOCIAL GOOD LAB</h3>
+              <h4 class="close playfair">Research Assistant</h4>
+              <p class="close montserrat">Learning legal wildlife trade transportation cost to identify illegal wildlife trade using gradient descent.</p>
+          </TimelineContent>
+        </TimelineItem>
         <TimelineItem>
           <TimelineOppositeContent>
             <p class="montserrat">September-December 2020</p>
@@ -27,7 +73,8 @@ export default class Experience extends Component {
             <TimelineConnector />
           </TimelineSeparator>
           <TimelineContent>
-              <h3 class="close playfair">CS50 (INTRODUCTION TO CS) TEACHING FELLOW </h3>
+              <h3 class="close playfair">CS50 (INTRODUCTION TO CS)</h3>
+              <h4 class="close playfair">Teaching Fellow</h4>
               <p class="close montserrat">Led weekly section of ~25 students, graded assignments, ran office hours, and advised final projects. Languages: C, Python, SQL, JavaScript, and HTML/CSS.</p>
           </TimelineContent>
         </TimelineItem>
@@ -91,22 +138,6 @@ export default class Experience extends Component {
             <h4 class="close playfair">Scholar</h4>
             <h4 class="close playfair">Rutgers University, NJ</h4>
             <p class="close montserrat">Collaboration with Mandela Washington Fellow in drone medicine delivery to Africa. Paper “Adaptive Feedback Protocol for Underwater Vehicles via Software-Defined Acoustic Modems” Presented at 2018 IEEE MIT Undergraduate Research Technology Conference, Awarded ‘Best Paper’</p>
-          </TimelineContent>
-        </TimelineItem>
-        <TimelineItem>
-          <TimelineOppositeContent>
-            <p class="montserrat">January-March 2018</p>
-          </TimelineOppositeContent>
-          <TimelineSeparator>
-            <TimelineDot variant="outlined" color="primary">
-            </TimelineDot>
-            <TimelineConnector/>
-          </TimelineSeparator>
-          <TimelineContent>
-            <h3 class="close playfair">MORRIS COUNTY ARTS WORKSHOP</h3>
-            <h4 class="close playfair">Instructor in Introduction to Computer Science</h4>
-            <h4 class="close playfair">Mendham Township, NJ</h4>
-            <p class="close montserrat">Taught middle school students programming in Scratch and web design.</p>
           </TimelineContent>
         </TimelineItem>
         <TimelineItem>

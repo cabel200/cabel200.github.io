@@ -15,7 +15,7 @@ export default class Education extends Component {
             <h4 class="card-text montserrat">Cambridge, MA</h4>
             <h4 class="card-text montserrat">A.B. in Computer Science</h4>
             <h4 class="card-text montserrat">Class of 2023</h4>
-            <p class="card-text montserrat">Courses including CS50, AM22a, CS51, CS20</p>
+            <p class="card-text montserrat">Courses including CS124, CS121, Stat 110, CS20</p>
           </div>
         </div>
         <div class="card">
@@ -25,6 +25,7 @@ export default class Education extends Component {
             <h4 class="card-text montserrat">Class of 2019</h4>
             <p class="card-text montserrat">Cum Laude Society, High Honors, National AP Scholar,</p>
             <p class="card-text montserrat">Holy Child Spirit Award, Girl Scout Gold Award</p>
+            <p class="card-text montserrat"> </p>
           </div>
         </div>
       </div>
