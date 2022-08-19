@@ -20,7 +20,23 @@ export default class Experience extends Component {
       <Timeline align="left">
         <TimelineItem>
           <TimelineOppositeContent>
-            <p class="montserrat">May 2021-Present</p>
+            <p class="montserrat">June 2022-August 2022</p>
+          </TimelineOppositeContent>
+          <TimelineSeparator>
+            <TimelineDot variant="outlined" color="primary">
+            </TimelineDot>
+            <TimelineConnector />
+          </TimelineSeparator>
+          <TimelineContent>
+              <h3 class="close playfair">SIMON MARKETS (Acquired by iCapital August 2022)</h3>
+              <h4 class="close playfair">Backend Engineer Intern</h4>
+              <h4 class="close playfair">New York, NY</h4>
+              <p class="close montserrat">Created API to support saving annuity allocations in investor tools using Scala, Akka, ZIO, and more. Collaborated with Backend, Frontend, and QA engineering teams. Configured VS Code IDE to support Scala development and wrote documentation for SIMON engineers.</p>
+          </TimelineContent>
+        </TimelineItem>
+        <TimelineItem>
+          <TimelineOppositeContent>
+            <p class="montserrat">May 2021-February 2022</p>
           </TimelineOppositeContent>
           <TimelineSeparator>
             <TimelineDot variant="outlined" color="primary">
@@ -30,7 +46,7 @@ export default class Experience extends Component {
           <TimelineContent>
               <h3 class="close playfair">LOVAGE LABS INC.</h3>
               <h4 class="close playfair">Full Stack Software Engineer</h4>
-              <p class="close montserrat">First paid engineer at pre-seed AI startup collaborating with founders on software engineering and DevOps. Utilizing FastAPI, AWS, HashiCorp products, Dialogflow, Stripe, MongoDB Atlas, and more.</p>
+              <p class="close montserrat">First paid engineer at pre-seed AI startup collaborating with founders on software engineering and DevOps. Utilized FastAPI, AWS, HashiCorp products, Dialogflow, Stripe, MongoDB Atlas, and more.</p>
           </TimelineContent>
         </TimelineItem>
         <TimelineItem>
@@ -50,7 +66,7 @@ export default class Experience extends Component {
         </TimelineItem>
         <TimelineItem>
           <TimelineOppositeContent>
-            <p class="montserrat">February 2021-Present</p>
+            <p class="montserrat">February 2021-January 2022</p>
           </TimelineOppositeContent>
           <TimelineSeparator>
             <TimelineDot variant="outlined" color="primary">
@@ -60,6 +76,7 @@ export default class Experience extends Component {
           <TimelineContent>
               <h3 class="close playfair">ARTIFICIAL INTELLIGENCE FOR SOCIAL GOOD LAB</h3>
               <h4 class="close playfair">Research Assistant</h4>
+              <h4 class="close playfair">Harvard University</h4>
               <p class="close montserrat">Learning legal wildlife trade transportation cost to identify illegal wildlife trade using gradient descent.</p>
           </TimelineContent>
         </TimelineItem>
@@ -75,6 +92,7 @@ export default class Experience extends Component {
           <TimelineContent>
               <h3 class="close playfair">CS50 (INTRODUCTION TO CS)</h3>
               <h4 class="close playfair">Teaching Fellow</h4>
+              <h4 class="close playfair">Harvard CS Department</h4>
               <p class="close montserrat">Led weekly section of ~25 students, graded assignments, ran office hours, and advised final projects. Languages: C, Python, SQL, JavaScript, and HTML/CSS.</p>
           </TimelineContent>
         </TimelineItem>

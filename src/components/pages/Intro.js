@@ -11,8 +11,8 @@ export default class Intro extends Component {
         <img src="blue_back.jpg" alt="background blue" class="introbackdrop" width="1430px" height="975px"/>
         <div class="centered">
           <h2 class="playfair close">Hi I'm Caroline!</h2>
-          <p class="montserrat close medium"> I'm a junior at Harvard College studying Computer Science. </p>
-          <a href='/CarolineAbelTechCvAugust21.docx' download><Button variant="contained" class="montserrat"><ArrowDownwardIcon fontSize="small"/>DOWNLOAD CV</Button></a>
+          <p class="montserrat close medium"> I'm a senior at Harvard College studying Computer Science. </p>
+          <a href='/CarolineAbelTechCvAugust22Ncopy.pdf' download><Button variant="contained" class="montserrat"><ArrowDownwardIcon fontSize="small"/>DOWNLOAD CV</Button></a>
         </div>
       </div>
     )
