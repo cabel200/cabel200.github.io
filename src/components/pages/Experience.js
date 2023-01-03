@@ -20,6 +20,22 @@ export default class Experience extends Component {
       <Timeline align="left">
         <TimelineItem>
           <TimelineOppositeContent>
+            <p class="montserrat">August 2022-December 2022</p>
+          </TimelineOppositeContent>
+          <TimelineSeparator>
+            <TimelineDot variant="outlined" color="primary">
+            </TimelineDot>
+            <TimelineConnector />
+          </TimelineSeparator>
+          <TimelineContent>
+              <h3 class="close playfair">SYSTEMS DESIGN INDEPENDENT STUDY</h3>
+              <h4 class="close playfair">Supervised by Professor James Waldo, Harvard University</h4>
+              <h4 class="close playfair">Cambridge, MA</h4>
+              <p class="close montserrat">Refactored and streamlined input verification system using Python for the AI for Social Good Lab PAWS Project, which supports a ML pipeline to identify high risk poaching areas and optimal park ranger patrol routes.</p>
+          </TimelineContent>
+        </TimelineItem>
+        <TimelineItem>
+          <TimelineOppositeContent>
             <p class="montserrat">June 2022-August 2022</p>
           </TimelineOppositeContent>
           <TimelineSeparator>
