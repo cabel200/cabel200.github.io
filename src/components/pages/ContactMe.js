@@ -11,7 +11,7 @@ export default class ContactMe extends Component {
     return (
       <div id="contactme">
       <h3 class="main montserrat large"> CONTACT ME </h3>
-      <p><a href="mailto:carolineabel@college.harvard.edu" class="main medium montserrat tinks"><EmailIcon/>carolineabel@college.harvard.edu</a></p>
+      <p><a href="mailto:carolineabel20@gmail.com" class="main medium montserrat tinks"><EmailIcon/>carolineabel20@gmail.com</a></p>
       <p><a href="https://www.linkedin.com/in/caroline-abel" class="main medium montserrat tinks" target="_blank"><LinkedInIcon/>LinkedIn</a></p>
       <p><a href="https://github.com/cabel200" class="main medium montserrat tinks" target="_blank"><GitHubIcon/>GitHub</a></p>
       </div>

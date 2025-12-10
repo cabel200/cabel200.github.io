@@ -12,7 +12,7 @@ export default class Projects extends Component {
       <h3 class="main montserrat large"> PROJECTS </h3>
       <div class="main">
         <ProjectCard photoUrl='harvard.jpeg' title='Systems Design Independent Study' paragraph='Refactored and streamlined input verification system using Python for the AI for Social Good Lab PAWS Project, which supports a ML pipeline to identify high risk poaching areas and optimal park ranger patrol routes.'/> 
-        <ProjectCard photoUrl='hands.jpeg' title='US Homeleness Visualizations' paragraph='Built website with two students to visualize homelessness crisis using D3.js, HTML, and CSS. See GitHub linked below.'/> 
+        <ProjectCard photoUrl='hands.jpeg' title='US Homelessness Visualizations' paragraph='Built website with two students to visualize homelessness crisis using D3.js, HTML, and CSS. See GitHub linked below.'/> 
         <ProjectCard photoUrl='simon.jpeg' title='SIMON Markets Internship' paragraph='Created API to support saving annuity allocations in investor tools using Scala, Akka, ZIO, and more. Collaborated with Backend, Frontend, and QA engineering teams. Configured VS Code IDE to support Scala development and wrote documentation for SIMON engineers.'/> 
         <ProjectCard photoUrl='plates..png' title='DHall TTC' paragraph='Worked with two students to design and implement a modified Top-Trading Cycle (TTC) mechanism that allows Harvard students to rank their dining hall preferences and swap their meal swipe for a meal in another dining hall. This mechanism can maintain strategy-proofness and Pareto-optimal matchings across
 preference ordering. See GitHub linked below.'/> 

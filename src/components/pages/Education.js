@@ -13,7 +13,8 @@ export default class Education extends Component {
           <div class="card-body">
             <h3 class="card-title montserrat">Harvard University</h3>
             <h4 class="card-text montserrat">Cambridge, MA</h4>
-            <h4 class="card-text montserrat">A.B. in Computer Science. Minor: Economics</h4>
+            <h4 class="card-text montserrat">A.B. in Computer Science with Honors</h4>
+            <h4 class="card-text montserrat">Minor in Economics</h4>
             <h4 class="card-text montserrat">Class of 2023</h4>
             <p class="card-text montserrat">Courses including CS124, CS121, CS136, Stat 110</p>
           </div>
@@ -25,6 +26,8 @@ export default class Education extends Component {
             <h4 class="card-text montserrat">Class of 2019</h4>
             <p class="card-text montserrat">Cum Laude Society, High Honors, National AP Scholar,</p>
             <p class="card-text montserrat">Holy Child Spirit Award, Girl Scout Gold Award</p>
+            <br></br>
+            <br></br>
             <p class="card-text montserrat"> </p>
           </div>
         </div>

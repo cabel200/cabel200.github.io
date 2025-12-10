@@ -20,6 +20,27 @@ export default class Experience extends Component {
       <Timeline align="left">
         <TimelineItem>
           <TimelineOppositeContent>
+            <p class="montserrat">August 2023-Present</p>
+          </TimelineOppositeContent>
+          <TimelineSeparator>
+            <TimelineDot variant="outlined" color="primary">
+            </TimelineDot>
+            <TimelineConnector />
+          </TimelineSeparator>
+          <TimelineContent>
+              <h3 class="close playfair">LAZARUS AI</h3>
+              <h4 class="close playfair">Software Engineer</h4>
+              <h4 class="close playfair">Boston, MA</h4>
+              <p class="close montserrat">One of first engineers at venture-backed AI startup for enterprise clients in insurance, healthcare, and government.</p>
+              <p class="close montserrat">Reduced SaaS API latency by 90-95%, excluding model time. Identified and eliminated speed bottlenecks. </p>
+              <p class="close montserrat">Directly Responsible Individual for Container Products. Shipped document processing and multimodal reasoning AI solutions for on-prem environments. </p>
+              <p class="close montserrat">Co-led migration from monolith to microservices increasing developer velocity and service isolation. </p>
+              <p class="close montserrat">Implemented SaaS API versioning with load balancer to meet customer needs and increase stability.  </p>
+              <p class="close montserrat">Mentored two intern projects into production.</p>
+          </TimelineContent>
+        </TimelineItem>
+        <TimelineItem>
+          <TimelineOppositeContent>
             <p class="montserrat">August 2022-December 2022</p>
           </TimelineOppositeContent>
           <TimelineSeparator>
